@@ -1,1 +1,1 @@
-# PLINKO1
+# Plinko-1
